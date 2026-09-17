@@ -8,4 +8,4 @@ I'm always interested in working on something new and looking to work on cool st
 
 **Tech:** Python · C# · Java · C/C++ · TypeScript · JavaScript · Swift · Xcode/Apple Developer Kit · React · Unity · Linux · Git 
 
-**Other Software**  Figma · Adobe Suite · Blender · Benchling · MatLab
+**Other Software**  Figma · Adobe Suite · Blender · Benchling · MATLAB
